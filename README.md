@@ -1,2 +1,2 @@
-# Пыжа́тка / PyJatka
+# Пыжа́тка / Pyjatka
 Small-sized dataset for Keyword Spotting
